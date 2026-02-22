@@ -22,7 +22,7 @@ const projects = [
         skills: 'React, HTML, CSS, Git',
         img: project02,
         imgBig: project02Big,
-        gitHubLink: 'https://siazur.github.io/portfolio/',
+        gitHubLink: 'https://github.com/siazur/portfolio',
     },
 
     {
