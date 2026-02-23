@@ -3,7 +3,7 @@
 
 Моё персональное портфолио, созданное на React. Здесь представлены мои проекты, навыки и контакты.
 
-**Сайт** [siazur.github.io/todo-list](https://siazur.github.io/portfolio/)
+**Сайт** [siazur.github.io/portfolio](https://siazur.github.io/portfolio/)
 
 ![ToDo Preview](./src/img/screenshot.png)
 
