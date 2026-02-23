@@ -1,4 +1,5 @@
 import "./style.css";
+import resumeFile from "./../../img/Anastasia_Mazurkevich_Frontend_developer_CV.pdf"
 
 const Header = () => {
     return (
@@ -11,7 +12,7 @@ const Header = () => {
               <div className="header__text">
                   <p>with passion for learning and creating.</p>
               </div>
-              <a href="#!" className="btn">Download CV</a>
+              <a href={resumeFile} download className="btn">Download CV</a>
           </div>
         </header>
     );
